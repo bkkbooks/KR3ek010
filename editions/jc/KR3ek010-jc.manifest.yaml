@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3ek010/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek010/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外科醫鏡
+  identifiers:
+    krp: KR3ek010
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek010.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek010_000-jc.yaml, hash: 'sha256:df9612b0dc20a3e3b181c5d378ac35e1282c2cbb5dcf01089edc377d3a4e41e3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek010_000-jc.markers.yaml, hash: 'sha256:5cbb953cfc705b0353a14c63a51dd9bf0a534767d05963990c062072a04a8ed1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek010_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 520
+  label: 裘序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek010_jc_000-d3.h1s1
+    span:
+    - front
+    - 520
+    - 864
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek010_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 259
+  label: 癰疽提綱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek010_jc_000-d5.h1s1
+    span:
+    - body
+    - 259
+    - 10068
+  label: 癰疽真假例論
+  type: section
+  level: 1
+hash: sha256:67ccf2cb61d852c8265db51dd13f7bcf922ddcd2b9df2488eabb8afebe17e1d1
