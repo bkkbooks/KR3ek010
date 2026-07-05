@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek010_000.yaml, hash: 'sha256:c717df5d9dafade0920feabd913d3c0ce522a5a6cad9f18bd3e7018ea659bdea'}
+  - {seq: 0, filename: KR3ek010_000.yaml, hash: 'sha256:df9612b0dc20a3e3b181c5d378ac35e1282c2cbb5dcf01089edc377d3a4e41e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek010_000.markers.yaml, hash: 'sha256:118ca18615354cdb03778a9c1b687e648dd91b3edfdfb6ef92d7eafc45e09d67'}
+  - {seq: 0, role: markers, filename: assets/KR3ek010_000.markers.yaml, hash: 'sha256:2412b9971fe545660faf715d890dae814703f1d7cdaf6460179a516794fe65b9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +61,4 @@ table_of_contents:
   label: 癰疽真假例論
   type: section
   level: 1
-hash: sha256:68e280582bd1aeec4ff46fb5551b5ceb51e971c079aca1065b71b523d5ffa66e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0b22e09834267050d74cb6b886f5e9bb6ecaaccdd87625f5dd65d251bd5cb939
