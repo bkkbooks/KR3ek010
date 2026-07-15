@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek010/v1
 canonical_location: https://kanripo.org/bkk/KR3ek010/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 外科醫鏡
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek010_000.yaml, hash: 'sha256:df9612b0dc20a3e3b181c5d378ac35e1282c2cbb5dcf01089edc377d3a4e41e3'}
+  - {seq: 0, filename: KR3ek010_000.yaml, hash: 'sha256:6bacb9f6b859237d2171fe1c5150835a10564914f966533610a42333544ae111'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek010_000.markers.yaml, hash: 'sha256:2412b9971fe545660faf715d890dae814703f1d7cdaf6460179a516794fe65b9'}
+  - {seq: 0, role: markers, filename: assets/KR3ek010_000.markers.yaml, hash: 'sha256:485fb979ee713565d2e855c0bd5102d13c0a538adb64e3117423470aa124dd02'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,7 @@ table_of_contents:
   label: 癰疽真假例論
   type: section
   level: 1
-hash: sha256:0b22e09834267050d74cb6b886f5e9bb6ecaaccdd87625f5dd65d251bd5cb939
+hash: sha256:e5ff58455878b5504d8378fe7741a80f873ee29479d8ba69dfd34870a06973f5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
