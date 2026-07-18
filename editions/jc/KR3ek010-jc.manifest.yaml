@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek010_000-jc.yaml, hash: 'sha256:df9612b0dc20a3e3b181c5d378ac35e1282c2cbb5dcf01089edc377d3a4e41e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek010_000-jc.markers.yaml, hash: 'sha256:5cbb953cfc705b0353a14c63a51dd9bf0a534767d05963990c062072a04a8ed1'}
+  - {seq: 0, role: markers, filename: assets/KR3ek010_000-jc.markers.yaml, hash: 'sha256:4ff37827f3092446344d24f4f9ed465e49495cffee6877d397bcc8793a0db605'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 癰疽真假例論
   type: section
   level: 1
-hash: sha256:67ccf2cb61d852c8265db51dd13f7bcf922ddcd2b9df2488eabb8afebe17e1d1
+hash: sha256:fb543d152fc7022c10efd46cd9e4797c584636580090b961501d0801caec3bb9
